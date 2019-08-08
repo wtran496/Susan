@@ -5,5 +5,5 @@
 	Extract and place assets folder inside Susan's Escape folder.
 
 Must do the following to compile source code in Visual Studio:
-	  o Debug -> Properties -> C/C++ -> Change Additional Include Directories -> select SFML folder -> select include folder
-	  o                              -> Linker -> General -> Additional Library Directories -> select SFML folder -> select lib
+	Debug -> Properties -> C/C++ -> Change Additional Include Directories -> select SFML folder -> select include folder
+                                     -> Linker -> General -> Additional Library Directories -> select SFML folder -> select lib

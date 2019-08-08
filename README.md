@@ -1,3 +1,4 @@
+	Susan's Escape is a top-down stealth shooting prototype game
 	Download Susan's Escape's executable to play prototype
 
 	Download Susan's Escape.sln, Susan's Escape.zip, assets.zip, and SFML.zip to see and compile source code.

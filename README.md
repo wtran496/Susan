@@ -4,6 +4,6 @@
 	Extract Susan's Escape.zip and SFML.zip then put both and Susan's Escape.sln in one folder.
 	Extract and place assets folder inside Susan's Escape folder.
 
-Must do the following to compile source code in Visual Studio:
+	Must do the following to compile source code in Visual Studio:
 	Debug -> Properties -> C/C++ -> Change Additional Include Directories -> select SFML folder -> select include folder
                                      -> Linker -> General -> Additional Library Directories -> select SFML folder -> select lib
